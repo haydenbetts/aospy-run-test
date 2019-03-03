@@ -20,8 +20,8 @@ base = GFDLDataLoader(
     )
 
 example_run = Run(
-    name='air temp examination',
-    description='An examination of air temperature 1980 => 1999',
+    name='relative humidity examination',
+    description='An examination of relative humidity 1980 => 2000',
     data_loader=base
 )
 
