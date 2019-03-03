@@ -21,14 +21,3 @@ calc_suite_specs = dict(
 calc_exec_options = dict(prompt_verify=False, parallelize=False, write_to_tar=False)
 
 calcs = submit_mult_calcs(calc_suite_specs, calc_exec_options)
-
-
-
-
-
-
-
-
-
-#base = GFDLDataLoader(data_)
-# try to navigate to correct direc
